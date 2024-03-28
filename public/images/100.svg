@@ -1,0 +1,40 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<rect width="1000" height="200" fill="white"/>
+<circle cx="60.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="12.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="109.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="157.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="109.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="206.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="254.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="206.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="303.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="351.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="303.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="400.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="448.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="400.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="497.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="545.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="497.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="594.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="642.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="594.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="691.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="739.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="691.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="788.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="836.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="788.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="885.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="933.5" cy="101.5" r="37.5" fill="#F9E219"/>
+<circle cx="885.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+<circle cx="982.5" cy="101.5" r="35" stroke="white" stroke-width="5"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="1000" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
