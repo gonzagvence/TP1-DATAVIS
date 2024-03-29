@@ -16,5 +16,9 @@
   "dependencies": {
     "@types/d3": "^7.4.3",
     "d3": "^7.8.5"
-  }
+  },
+  "description": "### Visualización de datos cuantitativos con HTML, CSS, D3 y Svelte.",
+  "main": "svelte.config.js",
+  "author": "",
+  "license": "ISC"
 }
